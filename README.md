@@ -1,1 +1,1 @@
-# diplom_project
+# diploma-project
