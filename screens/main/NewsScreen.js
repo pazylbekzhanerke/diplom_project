@@ -48,7 +48,6 @@ const NewsScreen = () => {
       ))}
     </ScrollView>
   );
-  console.log(data)
   return (
     
     <View style={styles.container}>

@@ -1,5 +1,5 @@
 node_modules/
-../diplom_project/.expo/
+.expo/
 dist/
 npm-debug.*
 *.jks
@@ -9,6 +9,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+ios/
+android/
 
 # macOS
 .DS_Store
